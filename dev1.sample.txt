@@ -1,4 +1,3 @@
-thi
-thidj
-is devo1
-fiel
+this is
+dev`1 sample text file
+thanksl
